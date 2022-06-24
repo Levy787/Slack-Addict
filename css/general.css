@@ -1,0 +1,35 @@
+/* 
+
+ICONS 
+https://ionic.io/ionicons
+
+
+
+
+
+
+
+*/
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+/* a:link,
+a:visited {
+  color: #f8f9fa;
+  line-height: 1.6;
+} */
